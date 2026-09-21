@@ -20,7 +20,7 @@ sudo apt upgrade
 
 [Youtube] (https://www.youtube.com)
 
-![foto1](C:\2DAM\PIM\Prueba_github\prova_markdown_RafaM\Images)
+![foto1](C:\2DAM\PIM\Prueba_github\prova_markdown_RafaM\Images\maria-enriquez_512)
 
 ###Llistes
 Numerades:
