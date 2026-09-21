@@ -2,7 +2,7 @@
 
 ## Titulo2
 
-*hola*
+*hola*  
 **adios**
 
 `sudo apt install`
@@ -11,6 +11,7 @@
 ```bash
 sudo apt install
 sudo apt update
+sudo apt upgrade
 ```
 
 ```html
@@ -31,6 +32,7 @@ Desordenades
 * objeto1
 * objeto2
 * objeto3
+* objeto4
 
   Taules:
 | Encabezado 1 | Encabezado 2 | 
